@@ -42,7 +42,7 @@ img {
   }
 
 @media screen {
-    
+    box-sizing: .address;
 }
 
 /* header */
